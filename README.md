@@ -42,7 +42,7 @@ I would like to acknowledge the following contributors for their valuable contri
 
 1. Clone this repository to your local machine.
 2. Navigate to the specific lab assignment folder for detailed instructions.
-3. Note that every folder has a instruction and report files and also codes for programming AVR Microcontroller(.ino).
+3. Note that every folder has a instruction and report files and also code for programming AVR Microcontroller(.ino).
 4. Follow the provided instructions to set up the hardware, software, and complete the assignment.
 5. You can use Arduino IDE to debug and compile the codes. [Donwload Arduino IDE](https://www.arduino.cc/en/software)
 
